@@ -55,7 +55,7 @@ def L_model_forward_test_case():
     return X, parameters
 
 def compute_cost_test_case():
-    Y = np.asarray([[1, 1, 1]])
+    Y = np.asarray([[1, 1, 0]])
     aL = np.array([[.8,.9,0.4]])
     
     return Y, aL
@@ -67,10 +67,10 @@ def linear_backward_test_case():
        [-1.74314104, -0.59664964]]), np.array([[ 0.74505627,  1.97611078, -1.24412333]]), np.array([[1]]))
     """
     np.random.seed(1)
-    dZ = np.random.randn(1,2)
-    A = np.random.randn(3,2)
-    W = np.random.randn(1,3)
-    b = np.random.randn(1,1)
+    dZ = np.random.randn(3,4)
+    A = np.random.randn(5,4)
+    W = np.random.randn(3,5)
+    b = np.random.randn(3,1)
     linear_cache = (A, W, b)
     return dZ, linear_cache
 
