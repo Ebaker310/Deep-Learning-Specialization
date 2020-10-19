@@ -1,3 +1,5 @@
+Gradient Checking
+---
 Welcome to this week's third programming assignment! You will be implementing gradient checking to make sure that your backpropagation implementation is correct. By completing this assignment you will:
 
 - Implement gradient checking from scratch.
