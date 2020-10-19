@@ -1,3 +1,5 @@
+Shallow Neural Networks
+---
 Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
 
 Learning Objectives:
