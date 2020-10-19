@@ -2,7 +2,7 @@ Optimization
 ---
 Welcome to the optimization's programming assignment of the hyper-parameters tuning specialization. There are many different optimization algorithms you could be using to get you to the minimal cost. Similarly, there are many different paths down this hill to the lowest point.
 
-<p align="center"><img width="100%" src="images/cost.jpg" /></p>
+<p align="center"><img width="50%" img src="images/cost.jpg" /></p>
 
 By completing this assignment you will:
 
