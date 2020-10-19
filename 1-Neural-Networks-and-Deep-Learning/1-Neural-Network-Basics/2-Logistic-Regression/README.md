@@ -1,5 +1,6 @@
 Welcome to the first (required) programming exercise of the deep learning specialization. In this notebook you will build your first image recognition algorithm. You will build a cat classifier that recognizes cats with 70% accuracy!
 
+<p align="center"><img width="100%" src="images/cat.png" /></p>
 
 As you keep learning new techniques you will increase it to 80+ % accuracy on cat vs. non-cat datasets. By completing this assignment you will:
 
