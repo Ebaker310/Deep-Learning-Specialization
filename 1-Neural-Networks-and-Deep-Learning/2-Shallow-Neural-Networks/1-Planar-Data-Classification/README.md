@@ -1,3 +1,5 @@
+Planar Data Classification
+---
 Welcome to the second programming exercise of the deep learning specialization. In this notebook you will generate red and blue points to form a flower. You will then fit a neural network to correctly classify the points. You will try different layers and see the results.
 
 <p align="center"><img width="100%" src="images/flower.png" /></p>
