@@ -1,4 +1,4 @@
-###Neural Networks and Deep Learning
+Neural Networks and Deep Learning
 ---
 This is the first course of the Deep Learning Specialization
 
