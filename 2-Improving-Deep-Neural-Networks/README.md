@@ -1,6 +1,6 @@
-This is the second course of the Deep Learning Specialization.
-It
-will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow. 
+Course 2: Improving Deep Neural Networks
+---
+This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow. 
 
 After 3 weeks, you will: 
 - Understand industry best-practices for building deep learning applications. 
