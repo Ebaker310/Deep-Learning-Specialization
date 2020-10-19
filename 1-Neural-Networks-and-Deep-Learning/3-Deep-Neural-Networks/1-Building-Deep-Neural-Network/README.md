@@ -1,3 +1,5 @@
+Building a Deep Neural Network - Step by Step
+---
 Welcome to your third programming exercise of the deep learning specialization. You will implement all the building blocks of a neural network and use these building blocks in the next assignment to build a neural network of any architecture you want. By completing this assignment you will:
 
 - Develop an intuition of the over all structure of a neural network.
