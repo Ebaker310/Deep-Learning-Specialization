@@ -1,6 +1,6 @@
 Deep Learning Specialization
 ---
-<p align="center"><img width="100%" src="logo/deeplearning.png" /></p>
+<p align="center"><img width="25%" src="logo/deeplearning.jpg" /></p>
 
 Offered by deeplearning.ai on Coursera. It teaches the foundations of Deep Learning & Neural Networks using Python and Tensorflow.
 
