@@ -12,4 +12,4 @@ This specialization is broken into 5 courses:
 4) Convolutional Neural Networks
 5) Sequence Models
 
-This repository contains lecture slides and programming assignments from this specialization.
+This repository contains programming assignments from this specialization.
