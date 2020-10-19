@@ -1,3 +1,5 @@
+Image Classification
+---
 Congratulations! Welcome to the fourth programming exercise of the deep learning specialization. You will now use everything you have learned to build a deep neural network that classifies cat vs. non-cat images.
 
 <p align="center"><img width="100%" src="images/cat.png" /></p>
