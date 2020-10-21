@@ -1,6 +1,6 @@
 Deep Learning Specialization
 ---
-<p align="center"><img width="100%" src="logo/deeplearning.png" /></p>
+<p align="center"><img width="25%" src="logo/deeplearning.jpg" /></p>
 
 Offered by deeplearning.ai on Coursera. It teaches the foundations of Deep Learning & Neural Networks using Python and Tensorflow.
 
@@ -12,4 +12,4 @@ This specialization is broken into 5 courses:
 4) Convolutional Neural Networks
 5) Sequence Models
 
-This repository contains lecture slides and programming assignments from this specialization.
+This repository contains programming assignments from this specialization.
